@@ -1,0 +1,5 @@
+{
+  ".editor": {
+    "ctrl-shift-b": "go-install:run"
+  }
+}
