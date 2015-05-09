@@ -4,7 +4,9 @@
   "version": "0.0.1",
   "private": true,
   "description": "Run go install . in current pkg",
-  "activationEvents": ["go-install:run"],
+  "activationCommands": {
+    "atom-text-editor": ["go-install:run"]
+  },
   "repository": "https://github.com/oneplus1000/go-install",
   "license": "MIT",
   "engines": {
