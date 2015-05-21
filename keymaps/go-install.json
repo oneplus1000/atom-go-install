@@ -1,5 +1,5 @@
 {
   "atom-text-editor": {
-    "ctrl-shift-b": "go-install:run"
+    "f5": "go-install:run"
   }
 }
